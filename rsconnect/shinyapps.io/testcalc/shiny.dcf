@@ -1,0 +1,8 @@
+name: shiny
+account: testcalc
+server: shinyapps.io
+bundleId: 362401
+url: https://testcalc.shinyapps.io/shiny/
+when: 1454212195.74241
+asMultiple: FALSE
+asStatic: FALSE
